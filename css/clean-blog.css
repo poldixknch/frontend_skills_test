@@ -317,4 +317,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085A1; }
 
+.m-auto {
+  margin: 0 auto; }
+
+.float-none {
+  float: none; }
+
 /*# sourceMappingURL=clean-blog.css.map */
