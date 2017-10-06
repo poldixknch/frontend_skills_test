@@ -103,7 +103,8 @@ hr.small {
   background-color: gray;
   background: no-repeat center center;
   background-attachment: scroll;
-  margin-bottom: 50px; }
+  margin-bottom: 50px;
+  height: 400px; }
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
