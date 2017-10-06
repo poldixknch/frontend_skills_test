@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700);
 @import "variables.scss";
 @import "mixins.scss";
 
@@ -21,6 +22,7 @@ h4,
 h5,
 h6 {
 	font-weight: 800;
+	font-family: $heading-font;
 }
 
 a {
