@@ -62,6 +62,11 @@ hr.small {
 	z-index: 3;
 	.navbar-brand {
 		font-weight: 800;
+		img {
+    		width: 50%;
+    		height: auto;
+			cursor: pointer;
+    	}
 	}
 	.nav {
 		li {
