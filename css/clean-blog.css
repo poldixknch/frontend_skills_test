@@ -159,7 +159,8 @@ hr.small {
   color: #404040; }
   .post-preview > a:hover, .post-preview > a:focus {
     text-decoration: none;
-    color: #0085A1; }
+    color: #4ABB99;
+    transition: .5s; }
   .post-preview > a > .post-title {
     font-size: 30px;
     margin-top: 30px;
