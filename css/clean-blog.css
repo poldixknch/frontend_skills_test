@@ -108,7 +108,7 @@ hr.small {
 .intro-header {
   background-color: gray;
   background: no-repeat center center;
-  background-attachment: scroll;
+  background-attachment: fixed;
   margin-bottom: 50px;
   background-size: cover;
   height: 400px; }
